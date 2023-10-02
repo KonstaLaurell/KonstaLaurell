@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonstaLaurell
 - 👀 I’m interested in lua
-- 🌱 I’m currently learning js, java, html, css, python and lua
+- 🌱 I’m currently learning lua, java, html, css, js and python 
 - 💞️ I’m looking to collaborate on ❤️❤️lua❤️❤️
 - 📫 You can reach me by adding me discord tyhjyys
 <p align="center">
