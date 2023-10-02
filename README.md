@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ❤️❤️lua❤️❤️
 - 📫 You can reach me by adding me discord tyhjyys
 <p align="center">
+  <h1>Coding languages</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,py,lua,html,lua,js,lua,css,lua" />
   </a>
