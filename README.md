@@ -5,10 +5,7 @@
 - 📫 You can reach me by adding me discord tyhjyys
 ## Coding languages
 <p align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,py,lua,html,lua,js,lua,css,lua" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=lua,py,lua,html,lua,js,lua,css,lua" />
 </p>
 <!---
 KonstaLaurell/KonstaLaurell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
