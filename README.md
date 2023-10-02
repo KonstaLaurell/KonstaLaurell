@@ -13,5 +13,5 @@ KonstaLaurell/KonstaLaurell is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <html>
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FKonstaLaurell%2Fkoulustuff%2Fblob%2Fmain%2Fhelloworld.py&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FKonstaLaurell%2Fkoulustuff%2Fblob%2Fmain%2Fhelloworld.py&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on&fetchFromJsDelivr=on"></script>
 </html>
