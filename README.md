@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KonstaLaurell
 - 👀 I’m interested in lua
 - 🌱 I’m currently learning lua, java, lua, html, lua, css, lua, js, lua and python and lua
-- 💞️ I’m love with❤️❤️lua❤️❤️
+- 💞️ I’m love with ❤️❤️lua❤️❤️
 - 📫 You can reach me by adding me discord tyhjyys
 ## Coding languages
 <p align="center">
