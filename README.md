@@ -5,7 +5,7 @@
 - 📫 You can reach me by adding me discord tyhjyys
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=lua,py,lua,html,lua,js,lua,css,lua" />
   </a>
 </p>
 <!---
