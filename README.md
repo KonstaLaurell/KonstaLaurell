@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lua, java, html, css, js and python 
 - 💞️ I’m looking to collaborate on ❤️❤️lua❤️❤️
 - 📫 You can reach me by adding me discord tyhjyys
-##Coding languages
+## Coding languages
 <p align="center">
 
   <a href="https://skillicons.dev">
