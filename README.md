@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @KonstaLaurell
-- 👀 I’m interested in lua
-- 🌱 I’m currently learning lua, java, lua, html, lua, css, lua, js, lua and python and lua
-- 💞️ I’m love with ❤️❤️lua❤️❤️
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning react native
 - 📫 You can reach me by adding me discord tyhjyys
 ## Coding languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,lua,html,lua,css,lua,js,lua,py,lua" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,lua,react" />
 </p>
 <!---
 KonstaLaurell/KonstaLaurell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
